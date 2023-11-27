@@ -1,3 +1,5 @@
+![Banner](img/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Arif Gilang Pradana</h1>
 <h3 align="center">A passionate web developer</h3>
 
